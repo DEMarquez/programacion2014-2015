@@ -1,0 +1,5 @@
+madrid 5 100
+londres 15 2000
+toronto 3 50
+alcoy 4 400
+alicante 8 800
